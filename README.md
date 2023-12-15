@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhinesh M</h1>
+<!--<h1 align="center">Hi 👋, I'm Dhinesh M</h1>
 <h3 align="center">Crafting Seamless Experiences from Server to Pixel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dhinesh&label=Profile%20views&color=0e75b6&style=flat" alt="m-dhinesh" /> </p>
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-dhinesh&show_icons=true&locale=en" alt="m-dhinesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-dhinesh&" alt="m-dhinesh" /></p>
+-->
