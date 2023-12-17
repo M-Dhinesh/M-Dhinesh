@@ -8,6 +8,15 @@
 - 💬 Ask me about *C#, React, Servlet and JSP*
 
 - 📫 How to reach me *dhinesh88825@gmail.com*
+  
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-Dhinesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
