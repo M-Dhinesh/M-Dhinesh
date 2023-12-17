@@ -9,7 +9,6 @@
 
 - 📫 How to reach me *dhinesh88825@gmail.com*
   
-
 <br/>  
 
 ## Github Stats  
@@ -32,6 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-dhinesh&show_icons=true&locale=en&layout=compact" alt="m-dhinesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-dhinesh&show_icons=true&locale=en" alt="m-dhinesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-dhinesh&" alt="m-dhinesh" /></p>
