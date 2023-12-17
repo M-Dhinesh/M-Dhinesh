@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer and Data Analytics Enthusiast</h3>
 <p>
 
-👋 Hey there! <strong> I'm Dhinesh <strong>, a passionate full-stack developer with expertise in both .NET and Java. My backend prowess lies in C# for .NET and Java Servlets for Java. I craft robust database solutions using MSSql for .NET and Oracle for Java applications.
+👋 Hey there! <strong> I'm Dhinesh </strong>, a passionate full-stack developer with expertise in both .NET and Java. My backend prowess lies in C# for .NET and Java Servlets for Java. I craft robust database solutions using MSSql for .NET and Oracle for Java applications.
 
 💻 Tech Stack:
 
