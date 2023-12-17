@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhinesh M</h1>
-<h3 align="center">Crafting Seamless Experiences from Server to Pixel</h3>
+<h3 align="center">Full-Stack Developer and Data Analytics Enthusiast</h3>
 <p>
-Dhinesh - Full-Stack Developer and Data Analytics Enthusiast
+
 👋 Hey there! I'm Dhinesh, a passionate full-stack developer with expertise in both .NET and Java. My backend prowess lies in C# for .NET and Java Servlets for Java. I craft robust database solutions using MSSql for .NET and Oracle for Java applications.
 
 💻 Tech Stack:
@@ -19,7 +19,6 @@ I build comprehensive websites with a keen eye for frontend using Angular and Re
 Keen on staying updated with the latest technologies and trends in the dynamic world of software development.
 
 Let's code something amazing together! 💻✨
-
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dhinesh&label=Profile%20views&color=0e75b6&style=flat" alt="m-dhinesh" /> </p>
