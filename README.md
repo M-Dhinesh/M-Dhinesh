@@ -7,9 +7,8 @@
 💻 Tech Stack:
 
 .NET: C# for backend, MSSql for the database, Angular, and React for frontend.
-Java: Java Servlets for backend, Oracle for the database, and JSP for frontend.</br>
+Java: Java Servlets for backend, Oracle for the database, and JSP for frontend.</br></br>
 🚀 Additional Skills:
-
 Proficient in C, Python, and C++.
 Enthusiastic about data analytics.
 🌐 Web Development Approach:
