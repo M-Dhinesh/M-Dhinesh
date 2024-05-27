@@ -13,6 +13,7 @@ Java: Java Servlets for backend, Oracle for the database, and JSP for frontend.
 
 Proficient in C, Python, and C++.
 Enthusiastic about data analytics.
+
 🌐 Web Development Approach:
 I build comprehensive websites with a keen eye for frontend using Angular and React, coupled with powerful backend solutions.
 
