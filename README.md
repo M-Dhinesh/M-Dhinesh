@@ -15,9 +15,11 @@ Proficient in C, Python, and C++.
 Enthusiastic about data analytics.
 
 🌐 Web Development Approach:
+
 I build comprehensive websites with a keen eye for frontend using Angular and React, coupled with powerful backend solutions.
 
 📚 Always Learning:
+
 Keen on staying updated with the latest technologies and trends in the dynamic world of software development.
 
 Let's code something amazing together! 💻✨
