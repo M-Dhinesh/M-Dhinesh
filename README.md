@@ -1,69 +1,125 @@
-<h1 align="center">Dhinesh M</h1>
-<h3 align="center">Software Developer | Full-Stack & Data Engineering Enthusiast</h3>
-<p>
+# Hi there 👋, I'm Dhinesh M
 
-👋 Hey there! <strong>I'm Dhinesh</strong>, a software developer with hands-on experience in backend API development, full-stack applications, and data-driven solutions.  
-Currently working at <strong>TCS</strong> as an API Developer, I specialize in building robust Java APIs, SQL-based data workflows, and automation using JavaScript. Previously, I worked as a Full-Stack Developer at Kanini Software Solutions, where I built scalable applications using the MERN stack.
+💻 Data Engineer | Python | PySpark | SQL | API Data Pipelines  
+📍 Chennai, India  
+📧 dhinesh88825@gmail.com  
+🌐 Portfolio: https://m-dhinesh.github.io/Portfolio/  
+🔗 LinkedIn: https://www.linkedin.com/in/dhineshpa  
+🐙 GitHub: https://github.com/M-Dhinesh  
 
-💻 Tech Stack:
+---
 
-- **Backend:** Java, Node.js, Express.js  
-- **Frontend:** React.js  
-- **Databases:** MongoDB, SQL (Oracle, PL/SQL, MSSQL, MySQL)  
-- **Tools:** Git, Jira, Postman, Zena  
-- **Languages:** JavaScript, Python, Java  
+## 🚀 About Me
 
-🚀 Additional Skills:
+Data Engineer with hands-on experience in **SQL, Python, PySpark, and API-driven data pipelines** in production environments.  
+Skilled in building optimized queries, validating large datasets, and ensuring **data quality and reliability across distributed systems**.  
 
-- Machine Learning (Python, Pandas, NumPy, Scikit-learn)  
-- API automation and testing  
-- Data analysis and visualization  
+✔ Experience in troubleshooting data issues and optimizing performance  
+✔ Automated recurring data checks and reporting using Python & PySpark  
+✔ Strong collaboration with cross-functional teams to support business workflows  
+✔ Passionate about Data Engineering, Analytics, and Machine Learning  
 
-🌐 Approach:
+---
 
-I enjoy designing systems that are reliable, scalable, and transparent. Whether it’s backend APIs, full-stack web apps, or ML models, I focus on clarity, efficiency, and impact.
+## 🛠️ Tech Stack
 
-📚 Always Learning:
+**Programming & Data**
+- Python
+- PySpark
+- SQL / PL-SQL
+- Java
 
-Currently pursuing **M.Tech in Data Science (WILP)** at BITS Pilani to strengthen my academic foundation and align it with industry experience.
+**Libraries & Tools**
+- Pandas
+- NumPy
+- Git
+- Postman
+- Jira
+- Zena
 
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-dhinesh&label=Profile%20views&color=0e75b6&style=flat" alt="m-dhinesh" /> </p>
+**Domains**
+- Data Engineering
+- Data Analysis
+- Machine Learning
+- API Data Pipelines
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-dhinesh" alt="m-dhinesh" /></a> </p>
+---
 
-- 💬 Ask me about Java APIs, MERN stack, SQL, and Machine Learning  
-- 📫 Reach me at **dhinesh88825@gmail.com**  
-- 🌐 Portfolio: <a href='https://m-dhinesh.github.io/Portfolio/' target="_blank">Dhinesh M</a>  
+## 💼 Work Experience
 
-<br/>  
+### 🏢 TCS — Data Engineer (Oct 2023 – Present)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-Dhinesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+- Built and optimized **SQL & PySpark data validation pipelines**
+- Worked on **API-driven health insurance workflows**
+- Cleaned and transformed large production datasets
+- Improved system performance by optimizing complex SQL queries
+- Automated recurring data checks and reporting
+- Analyzed logs and API responses to identify pipeline issues
+- Ensured reliable data flow across distributed systems
+- Used **Postman, Jira, Nexus** for validation and issue tracking
 
-<br/>  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dhineshpa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i_am_m_d_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhinesh88825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dhinesh111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhinesh88825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
-</p>
+### 🏢 Kanini Software Solutions — Data Analyst Intern
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-</p>
+- Data cleaning and transformation using Python
+- Automated reporting and data validation
+- Optimized SQL queries
+- Built dashboards and visualizations
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-dhinesh&show_icons=true&locale=en&layout=compact" alt="m-dhinesh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-dhinesh&" alt="m-dhinesh" /></p>
+---
+
+## 🎓 Education
+
+**M.Tech (Data Science and Engineering)**  
+Birla Institute of Technology and Science (2025 – Present)
+
+**B.E Computer Science and Engineering**  
+P.A. College of Engineering and Technology (2019 – 2023)
+
+---
+
+## 📊 Achievements
+
+⭐ 5-Star in Python and SQL on HackerRank  
+💡 Solved 450+ coding problems on LeetCode & HackerRank  
+
+---
+
+## 📂 Projects
+
+### ❤️ Arrhythmia Detection
+
+**Python | Machine Learning | Pandas | NumPy**
+
+- Developed ML model to detect Arrhythmia
+- Identified irregular heartbeat patterns
+- Improved diagnosis efficiency
+- Reduced detection errors using data analysis
+
+---
+
+## 🌍 Languages
+
+- Tamil (Full Professional Proficiency)
+- English (Full Professional Proficiency)
+
+---
+
+## 📈 GitHub Stats
+
+![Dhinesh GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Dhinesh&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Dhinesh&layout=compact)
+
+---
+
+## 🤝 Let's Connect
+
+📧 dhinesh88825@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/dhineshpa  
+🌐 Portfolio: https://m-dhinesh.github.io/Portfolio/  
+
+---
+
+⭐ From [M-Dhinesh](https://github.com/M-Dhinesh)
