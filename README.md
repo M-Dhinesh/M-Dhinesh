@@ -1,125 +1,103 @@
-# Hi there 👋, I'm Dhinesh M
+# Hi, I'm Dhinesh M 👋
 
-💻 Data Engineer | Python | PySpark | SQL | API Data Pipelines  
-📍 Chennai, India  
-📧 dhinesh88825@gmail.com  
-🌐 Portfolio: https://m-dhinesh.github.io/Portfolio/  
-🔗 LinkedIn: https://www.linkedin.com/in/dhineshpa  
-🐙 GitHub: https://github.com/M-Dhinesh  
+**Software Developer | Data Engineer | Full-Stack Developer**
+
+I'm a versatile engineer with hands-on experience in **Software Development** (Django, ReactJS, Node.js) and **Data Engineering** (PL/SQL, Python, PySpark). I design scalable web applications, build RESTful APIs, create interactive dashboards, and develop robust ETL workflows while ensuring data quality across distributed systems.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-Data Engineer with hands-on experience in **SQL, Python, PySpark, and API-driven data pipelines** in production environments.  
-Skilled in building optimized queries, validating large datasets, and ensuring **data quality and reliability across distributed systems**.  
+- **Backend Development**: Django, Node.js, RESTful APIs, microservices
+- **Frontend Development**: ReactJS, responsive design, performance optimization
+- **Data Engineering**: SQL optimization, ETL pipelines, data validation, PySpark
+- **Data Analytics**: Python, Pandas, NumPy, Power BI dashboards
+- **DevOps & Tools**: Git, Docker, GitHub, Jira, Postman, Nexus
 
-✔ Experience in troubleshooting data issues and optimizing performance  
-✔ Automated recurring data checks and reporting using Python & PySpark  
-✔ Strong collaboration with cross-functional teams to support business workflows  
-✔ Passionate about Data Engineering, Analytics, and Machine Learning  
+---
+
+## 💼 Professional Experience
+
+### **Software Developer / Data Engineer** @ Tata Consultancy Services (TCS)
+**Oct 2023 – Mar 2026** | Chennai
+
+- Designed and implemented enterprise workflows using Python Django
+- Built RESTful APIs for seamless backend-frontend integration
+- Developed ReactJS dashboards and user interfaces with responsive design
+- Optimized SQL data validation pipelines supporting API-driven workflows
+- Extracted, transformed, and cleaned large production datasets using SQL/Python
+- Automated recurring data checks and reporting to reduce manual effort
+- Optimized complex SQL queries and troubleshot performance bottlenecks
+- Tech Stack: Python • Django • ReactJS • Node.js • SQL • PL/SQL
+
+### **Data Analyst Intern** @ Kanini Software Solutions
+**Feb 2023 – Jun 2023** | Chennai
+
+- Performed data cleaning, transformation, and analysis using SQL & Python
+- Automated recurring data workflows with Python
+- Built Power BI dashboards for decision-making teams
+- Tech Stack: Python • SQL • Power BI • Data Analysis
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming & Data**
-- Python
-- PySpark
-- SQL / PL-SQL
-- Java
+**Languages**: Python, Java, C#, PL/SQL, JavaScript
 
-**Libraries & Tools**
-- Pandas
-- NumPy
-- Git
-- Postman
-- Jira
-- Zena
+**Web Development**: Django, ReactJS, Node.js, MongoDB
 
-**Domains**
-- Data Engineering
-- Data Analysis
-- Machine Learning
-- API Data Pipelines
+**Data & Analytics**: PySpark, Pandas, NumPy, Power BI, Machine Learning
 
----
+**Tools & Collaboration**: Git, GitHub, Postman, Jira, Docker, Nexus, GitHub Copilot
 
-## 💼 Work Experience
-
-### 🏢 TCS — Data Engineer (Oct 2023 – Present)
-
-- Built and optimized **SQL & PySpark data validation pipelines**
-- Worked on **API-driven health insurance workflows**
-- Cleaned and transformed large production datasets
-- Improved system performance by optimizing complex SQL queries
-- Automated recurring data checks and reporting
-- Analyzed logs and API responses to identify pipeline issues
-- Ensured reliable data flow across distributed systems
-- Used **Postman, Jira, Nexus** for validation and issue tracking
-
----
-
-### 🏢 Kanini Software Solutions — Data Analyst Intern
-
-- Data cleaning and transformation using Python
-- Automated reporting and data validation
-- Optimized SQL queries
-- Built dashboards and visualizations
+**AI & LLM**: Prompt Engineering, Machine Learning, RAG (Retrieval-Augmented Generation)
 
 ---
 
 ## 🎓 Education
 
-**M.Tech (Data Science and Engineering)**  
-Birla Institute of Technology and Science (2025 – Present)
+**M.Tech Data Science & Engineering (WILP)**
+- Birla Institute of Technology And Science (BITS Pilani)
+- October 2025 – Present (Pursuing)
 
-**B.E Computer Science and Engineering**  
-P.A. College of Engineering and Technology (2019 – 2023)
-
----
-
-## 📊 Achievements
-
-⭐ 5-Star in Python and SQL on HackerRank  
-💡 Solved 450+ coding problems on LeetCode & HackerRank  
+**B.E Computer Science & Engineering**
+- P.A. College of Engineering and Technology
+- July 2019 – May 2023
 
 ---
 
-## 📂 Projects
+## 📊 Achievements & Certifications
 
-### ❤️ Arrhythmia Detection
+- **LeetCode**: 286+ problems solved
+  - Python3: 216 problems
+  - MySQL: 57 problems
+  - C#: 8 problems
+  - 100 Days Badge
 
-**Python | Machine Learning | Pandas | NumPy**
-
-- Developed ML model to detect Arrhythmia
-- Identified irregular heartbeat patterns
-- Improved diagnosis efficiency
-- Reduced detection errors using data analysis
+- **HackerRank**: 100+ problems
+  - 5-star ratings in Python and SQL
+  - 3 certifications (SQL, Python, Problem Solving)
 
 ---
 
-## 🌍 Languages
+## 🔗 Let's Connect
 
-- Tamil (Full Professional Proficiency)
-- English (Full Professional Proficiency)
+- **Portfolio**: [https://m-dhinesh.github.io/Portfolio/](https://m-dhinesh.github.io/Portfolio/)
+- **LinkedIn**: [linkedin.com/in/m-dhinesh](https://linkedin.com/in/m-dhinesh)
+- **Email**: dhinesh88825@gmail.com
+- **LeetCode**: [leetcode.com/M-Dhinesh](https://leetcode.com/M-Dhinesh)
+- **HackerRank**: [hackerrank.com/M-Dhinesh](https://hackerrank.com/M-Dhinesh)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Dhinesh GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Dhinesh&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Dhinesh&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Dhinesh&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🤝 Let's Connect
+## 💡 Let's Build Something Amazing
 
-📧 dhinesh88825@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/dhineshpa  
-🌐 Portfolio: https://m-dhinesh.github.io/Portfolio/  
+I'm passionate about solving complex problems through elegant code and data-driven insights. Whether it's building scalable applications, optimizing data pipelines, or exploring AI/ML solutions, I'm always up for a challenge!
 
----
-
-⭐ From [M-Dhinesh](https://github.com/M-Dhinesh)
+**Feel free to reach out for collaborations, opportunities, or just a tech discussion!** 🚀
